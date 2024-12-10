@@ -21,6 +21,7 @@ bee-anomaly-detection/
 │   └── script.js          # Frontend JavaScript for interaction
 └── train_model.py         # Script for training the model
 
+
 1. Training the Model
 Create a Python script, train_model.py, to train the model using the VarroaDataset.
 
