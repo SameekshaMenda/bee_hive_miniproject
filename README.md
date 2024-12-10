@@ -1,6 +1,7 @@
 # mini_project
 
 file structure:
+
 bee-anomaly-detection/
 ├── backend/
 │   ├── app.py             # Flask backend for API
